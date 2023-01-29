@@ -151,7 +151,6 @@ header .container{
 @media screen and (max-width: 501px){
     .section-service__main-title, .section-functions__main-title, .section-functions__updates-title{
         font-size: 19px;
-       
         padding-top: 10px;
     }    
 }
