@@ -218,7 +218,7 @@ header .container{
 .section-finctions__item{
     display: flex;
     max-width: 600px;
-    
+    text-align: justify;
     margin: 15px;
     font-weight: 600;
     text-indent: 25px;
@@ -228,13 +228,14 @@ header .container{
 .section-finctions__item img{
     width: 64px;
     height: 64px;
+    margin: 0px 50px;
 }
 .reverse-item{
     flex-direction: row;
     /* padding-right: 25px; */
 }
 .section-finctions__item p{
-    max-width: 200px;
+    /* max-width: 200px; */
 }
 
 @media screen and (max-width: 768px){
