@@ -31,6 +31,10 @@ header .container{
     color: #7a5cab;
     font-weight: 700;
 }
+.nav-link{
+    color: #7a5cab;
+    font-weight: 700;
+}
 .header__slogan{
     max-width: 650px;
     text-align: left;
