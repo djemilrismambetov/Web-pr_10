@@ -216,11 +216,9 @@ header .container{
 }
 .functions-wrapper{
    display: flex;
-   
 }
 .functions-column{
    
-
 }
 .section-finctions__item{
     display: flex;
@@ -230,7 +228,6 @@ header .container{
     font-weight: 600;
     text-indent: 25px;
     max-height: 150px;
-
 }
 .section-finctions__item img{
     width: 64px;
@@ -253,7 +250,6 @@ header .container{
     }
     .section-finctions__item{
         margin-top: 80px;
-        
     }
 }
 @media screen and (max-width: 576px){
